@@ -3,5 +3,4 @@ AdvancedTCP.exe
 c2_serverV2.exe
 <img width="1484" height="888" alt="Captura de pantalla 2025-09-28 074115" src="https://github.com/user-attachments/assets/06178326-9380-420e-8bae-c8e4b7f056f2" />
 c2Server.exe
-<br>/![C2Server_example](https://github.com/user-attachments/assets/b50d0a01-4491-4c0c-8bb2-a1dcf3f4ee9d)
-![Grabacindepantalla2025-10-03031430-ezgif com-resize](https://github.com/user-attachments/assets/097677ba-31b8-44fa-aed1-9225fb2c3d58)
+<br>![C2Server_example](https://github.com/user-attachments/assets/b50d0a01-4491-4c0c-8bb2-a1dcf3f4ee9d)
