@@ -1,7 +1,3 @@
-Suite de herramientas de ciberseguridad ofensiva con interfaz gráfica para Windows.
-
----
-
 ## Aplicaciones
 
 ### RedTeamProV4
