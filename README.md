@@ -4,7 +4,7 @@
 
 Aplicación principal que integra múltiples herramientas de pentesting con soporte WSL.
 
-![RedTeamProV4](https://github.com/user-attachments/assets/6c1d6056-01f6-4042-9007-af886986aaba)
+![RedTeamProV4](<img width="1393" height="897" alt="Captura de pantalla 2026-06-26 020318" src="https://github.com/user-attachments/assets/7ac65b61-699b-42bf-9c80-363d6490dcb9" />)
 
 **Instalador:** [Descargar](https://drive.google.com/file/d/1-seykrZcmWm1BIFf3Y4MWet7nL_LTm2C/view?usp=drive_link)
 
