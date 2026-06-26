@@ -1,21 +1,85 @@
-RedTeamProV4
-<img width="1396" height="899" alt="image" src="https://github.com/user-attachments/assets/6c1d6056-01f6-4042-9007-af886986aaba" />
-Intaller: https://drive.google.com/file/d/1-seykrZcmWm1BIFf3Y4MWet7nL_LTm2C/view?usp=drive_link
+# RedTeamProV4
 
-<br>
-GOAV.exe [*]v01
-<img width="1511" height="904" alt="image" src="https://github.com/user-attachments/assets/7d5fdfbb-3870-4623-bcc9-647448ae31c2" />
-INtaller: https://drive.google.com/file/d/1rVXb6shUmb-9QhxjDURmPxG15OBwcYjn/view?usp=drive_link
+Suite de herramientas de ciberseguridad ofensiva con interfaz gráfica para Windows.
 
-<br>
-AdvancedTCP.exe
-<img width="1396" height="826" alt="Captura de pantalla 2025-09-27 020807" src="https://github.com/user-attachments/assets/11d85c77-4b59-43be-88eb-ba3212ec8ac2" />
-<br>
-c2_serverV2.exe
-<img width="1484" height="888" alt="Captura de pantalla 2025-09-28 074115" src="https://github.com/user-attachments/assets/06178326-9380-420e-8bae-c8e4b7f056f2" />
-<br>
-c2Server.exe
-<br>![C2Server_example](https://github.com/user-attachments/assets/b50d0a01-4491-4c0c-8bb2-a1dcf3f4ee9d)</br>
-MACChanger.exe<br>
-<img width="496" height="611" alt="image" src="https://github.com/user-attachments/assets/6194954c-3925-493d-b767-7428713f6e3b" />
+---
 
+## Aplicaciones
+
+### RedTeamProV4
+
+Aplicación principal que integra múltiples herramientas de pentesting con soporte WSL.
+
+![RedTeamProV4](https://github.com/user-attachments/assets/6c1d6056-01f6-4042-9007-af886986aaba)
+
+**Instalador:** [Descargar](https://drive.google.com/file/d/1-seykrZcmWm1BIFf3Y4MWet7nL_LTm2C/view?usp=drive_link)
+
+---
+
+### GOAV.exe v01
+
+Herramienta de reconocimiento y análisis de vulnerabilidades.
+
+![GOAV.exe](https://github.com/user-attachments/assets/7d5fdfbb-3870-4623-bcc9-647448ae31c2)
+
+**Instalador:** [Descargar](https://drive.google.com/file/d/1rVXb6shUmb-9QhxjDURmPxG15OBwcYjn/view?usp=drive_link)
+
+---
+
+### AdvancedTCP.exe
+
+Análisis y manipulación de conexiones TCP/IP.
+
+![AdvancedTCP.exe](https://github.com/user-attachments/assets/11d85c77-4b59-43be-88eb-ba3212ec8ac2)
+
+---
+
+### c2_serverV2.exe
+
+Servidor de comando y control (C2).
+
+![c2_serverV2.exe](https://github.com/user-attachments/assets/06178326-9380-420e-8bae-c8e4b7f056f2)
+
+---
+
+### c2Server.exe
+
+Versión adicional del servidor C2.
+
+![c2Server.exe](https://github.com/user-attachments/assets/b50d0a01-4491-4c0c-8bb2-a1dcf3f4ee9d)
+
+---
+
+### MACChanger.exe
+
+Cambia la dirección MAC de interfaces de red.
+
+![MACChanger.exe](https://github.com/user-attachments/assets/6194954c-3925-493d-b767-7428713f6e3b)
+
+---
+
+## Requisitos
+
+- Windows 10/11 (64 bits)
+- WSL2 habilitado (para RedTeamProV4)
+- 4 GB de RAM mínimo
+
+---
+
+## Instalación
+
+1. Descarga el instalador de la herramienta deseada.
+2. Ejecuta como administrador.
+3. Sigue las instrucciones del asistente.
+
+---
+
+## Aviso Legal
+
+Uso exclusivo para fines educativos y auditorías autorizadas. El mal uso es responsabilidad del usuario.
+
+---
+
+## Licencia
+
+MIT
